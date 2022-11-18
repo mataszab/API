@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">API</string>
+    <string name="cbText">Use async task</string>
+    <string name="tvMain">Get data from API</string>
+    <string name="btnStart">Start!</string>
+    <string name="btnNotClicked">Nothing is happening...</string>
+    <string name="btnClicked">Getting data from API, please wait (approx. 30s)...</string>
+    <string name="btnClickedResult">"Data loaded!"</string>
+</resources>
